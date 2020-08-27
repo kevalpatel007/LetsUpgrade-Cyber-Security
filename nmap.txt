@@ -1,0 +1,7 @@
+# Nmap 7.80 scan initiated Tue Aug 25 06:39:47 2020 as: nmap -sC -sV -sS -oN nmap.txt 203.163.246.23
+Nmap scan report for 203.163.246.23
+Host is up (0.0015s latency).
+All 1000 scanned ports on 203.163.246.23 are filtered
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Aug 25 06:40:46 2020 -- 1 IP address (1 host up) scanned in 59.41 seconds
